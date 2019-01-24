@@ -1,0 +1,18 @@
+synonyms.txt
+
+. . . . S . . . . . . . . . . 
+. . . . U . . . . . . . . . . 
+. . . . M . . . . . . . . . . 
+. . . . M . . . . . . . . . . 
+T E S T I M O N I A L # . # . 
+. . . . T . . . . . . . . H . 
+. . . . # . . . . . . . . O . 
+. . . . . . . # C O N S O L E 
+. . . . . . . . # H O B B Y # 
+. . . . . . . . . . . . . # . 
+
+AeV SUMMIT
+EaH TESTIMONIAL
+FnV HOLY
+HiH CONSOLE
+IjH HOBBY

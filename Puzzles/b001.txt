@@ -1,0 +1,20 @@
+synonyms.txt
+
+A B A C K # # # # # 
+B # # # # # # # # # 
+A # # # # R # # # # 
+S # # # D E S P O T 
+H # # # # C # # # E 
+# # # # # A # # # S 
+O R I G I N # # # T 
+# R E C I T A L # Y 
+# # # # # # # # # # 
+# # # # # # # # # # 
+
+AaH ABACK
+AaV ABASH
+CfV RECANT
+DeH DESPOT
+DjV TESTY
+GaH ORIGIN
+HbH RECITAL
